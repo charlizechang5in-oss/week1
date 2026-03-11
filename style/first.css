@@ -1,0 +1,25 @@
+ #light {
+     border : 5px solid violet;
+     background-color: white;
+        color: black;
+ 
+
+        
+h1 {
+            color: rgb(68, 7, 73);
+
+           
+        }
+
+        p {
+            background-color: rgb(224, 184, 225);
+            color: rgb(99, 29, 104);
+        }
+
+        h3 {
+            background-color: rgb(238, 155, 239);
+            color: #5d2f69;
+            padding: 28px;
+
+        }
+    }
